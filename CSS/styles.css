@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.topContainer {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomCloud {
+  position: absolute;
+}
+
+.middle-container {
+  background-color: #69DADB;
+
+}
+
+.bottom-container {
+  background-color: #69BADF;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+h3 {
+  color: #66BFBF;
+}
